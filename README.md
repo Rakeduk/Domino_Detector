@@ -1,4 +1,4 @@
-# Domino recognition
+# Domino detector
 
 Final project for _computer man communication_ classes. Program count dots on dominoes with Blob Detection alogrythm.
 
